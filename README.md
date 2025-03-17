@@ -38,6 +38,5 @@ The **Privacy-focused Data Marketplace** is a decentralized platform where users
    - Emitted when a data entry is listed for sale with the specified price.
 
 ## Contract Address:
-Once deployed on the Ethereum blockchain, the smart contract will have an address. Please replace the placeholder below with the actual contract address after deployment.
 Contract Address:  0x3f79E1E95cF8c79fd50dF05200C394CeB92c71E9
 
