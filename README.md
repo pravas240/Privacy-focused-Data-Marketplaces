@@ -39,4 +39,6 @@ The **Privacy-focused Data Marketplace** is a decentralized platform where users
 
 ## Contract Address:
 Contract Address:  0x3f79E1E95cF8c79fd50dF05200C394CeB92c71E9
+![image](https://github.com/user-attachments/assets/b0d4f033-0a1a-4860-97b1-463458e85678)
+
 
